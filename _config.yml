@@ -3,12 +3,10 @@ markdown: kramdown
 kramdown:
   input: GFM
 pygments: true
-baseurl: ''
+baseurl: '/kanrk06'
 encoding: UTF-8
 exclude:
 - README.md
-- vendor
-- tmp
 name: Kansai06
 copyright: 2015, Ruby関西
 theme: cerulean
