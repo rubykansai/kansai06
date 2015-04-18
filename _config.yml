@@ -7,6 +7,6 @@ baseurl: '/kanrk06'
 encoding: UTF-8
 exclude:
 - README.md
-name: Kansai06
+name: Regional RubyKaigi
 copyright: 2015, Ruby関西
 theme: cerulean
