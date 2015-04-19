@@ -1,3 +1,5 @@
 ---
 - label: Blog
   path: "/blog"
+- label: Changelog
+  path: "/changelog"
