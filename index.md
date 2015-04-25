@@ -36,7 +36,9 @@ title:  関西Ruby会議06
 
 ## お申し込み
 
-[準備中](#){:width="" class="btn btn-warning"}
+[発表者](https://rubykansai.doorkeeper.jp/events/23924){:class="btn btn-primary"} Call for papers(CFP) 募集中です。 テーマ： **Enjoy Programming**
+
+[準備中](#){:class="btn btn-warning"}
 
 ![ruby]({{ site.baseurl }}/assets/img/ruby.png){:width="24" align="left" style="margin-top:24px;"}
 
