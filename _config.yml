@@ -3,7 +3,7 @@ markdown: kramdown
 kramdown:
   input: GFM
 pygments: true
-baseurl: '/kanrk06'
+baseurl: '/kansai06'
 encoding: UTF-8
 exclude:
 - README.md
