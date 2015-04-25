@@ -3,7 +3,7 @@ layout: default
 title:  関西Ruby会議06
 ---
 
-![kanrk06]({{ site.baseurl }}/assets/img/kanrk06.png){:width="" style="display:block;margin-left:auto;margin-right:auto;"}
+![kanrk06]({{ site.baseurl }}/assets/img/kanrk06.png){:style="display:block;margin-left:auto;margin-right:auto;"}
 
 <div align="center">
 関西Ruby会議は関西最大級の<font color="#dc143c"> Rubyist </font>のお祭りイベントです！<br/>
@@ -36,7 +36,7 @@ title:  関西Ruby会議06
 
 ## お申し込み
 
-[発表者](https://rubykansai.doorkeeper.jp/events/23924){:class="btn btn-primary"} Call for papers(CFP) 募集中です。 テーマ： **Enjoy Programming**
+[発表者](https://rubykansai.doorkeeper.jp/events/23924){:class="btn btn-success"} Call for papers(CFP) 募集中です。 テーマ： **Enjoy Programming**
 
 [準備中](#){:class="btn btn-warning"}
 
@@ -44,4 +44,4 @@ title:  関西Ruby会議06
 
 ## お問い合わせ
 
-[準備中](#){:width="" class="btn btn-warning"}
+[準備中](#){:class="btn btn-warning"}
