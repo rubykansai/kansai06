@@ -7,6 +7,6 @@ baseurl: '/kansai06'
 encoding: UTF-8
 exclude:
 - README.md
-name: Regional RubyKaigi
+name: 関西Ruby会議06
 copyright: 2015, Ruby関西
-theme: cerulean
+theme: cyborg

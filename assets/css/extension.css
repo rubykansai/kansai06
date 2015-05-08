@@ -1,0 +1,29 @@
+#banner {
+  min-height: 0px;
+}
+
+#theme {
+  text-align: center;
+  color: #eebb44;
+  font-size: 80px;
+}
+
+#logo-top {
+  padding-top: 10px;
+  padding-bottom: 40px;
+  margin: 0 auto;
+}
+
+#logo-bottom {
+  padding-top: 40px;
+  padding-bottom: 10px;
+  margin: 0 auto;
+}
+
+.text-warning, .text-warning:hover {
+  color: #eebb44;
+}
+
+.panel {
+  margin-bottom: 30px;
+}

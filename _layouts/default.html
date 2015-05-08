@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
     <link rel="shortcut icon" href="{{ site.baseurl }}/assets/ico/favicon.ico">
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/github.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/themes/{{ site.theme }}/bootstrap.min.css" media="screen">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/bootswatch.min.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/extension.css">
   </head>
   <body>
 
@@ -15,7 +15,9 @@
 
     <div class="container">
 
-      <H1>{{ page.title }}</H1>
+      <div class="page-header" id="banner">
+        <p class="lead">{{ page.title }}</p>
+      </div>
 
       {{ content }}
 
