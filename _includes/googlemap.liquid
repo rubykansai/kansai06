@@ -1,0 +1,25 @@
+<style type="text/css">
+  #googlemap {
+    width: 900px;
+    height: 300px;
+    border: #5f9ea0 solid 2px;
+    margin: 0 auto;
+  }
+</style>
+
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+<script type="text/javascript">
+  google.maps.event.addDomListener(window, 'load', init);
+  function init() {
+    var styles = [{"featureType":"all","elementType":"all","stylers":[{"invert_lightness":true},{"saturation":10},{"lightness":30},{"gamma":0.5},{"hue":"#435158"}]}];
+    var icon = new google.maps.MarkerImage("{{ site.baseurl }}/assets/img/rubyslush.png",
+        new google.maps.Size(36,44), new google.maps.Point(0,0)
+    );
+    var latlng = new google.maps.LatLng(34.7292891,135.4993)
+    var options = {zoom: 14, center: latlng, styles: styles };
+    var marker = new google.maps.Marker({position: latlng, icon: icon,
+        map: new google.maps.Map(document.getElementById('googlemap'), options)
+    });
+  }
+</script>
