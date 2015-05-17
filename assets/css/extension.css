@@ -31,3 +31,84 @@
 .btn-registration {
   margin-bottom: 10px;
 }
+
+/*
+  hexagon
+*/
+.hexagon {
+  position: relative;
+  width: 80px;
+  height: 46.19px;
+  margin: 23.09px 0;
+  background-size: auto 92.3760px;
+  background-position: center;
+  background-image: url(http://regional.rubykaigi.org/kansai06/assets/img/rubysquare.png);
+}
+
+.hex-top,
+.hex-bottom {
+  position: absolute;
+  z-index: 1;
+  width: 56.57px;
+  height: 56.57px;
+  overflow: hidden;
+  -webkit-transform: scaleY(0.5774) rotate(-45deg);
+  -ms-transform: scaleY(0.5774) rotate(-45deg);
+  transform: scaleY(0.5774) rotate(-45deg);
+  background: inherit;
+  left: 11.72px;
+}
+
+.hex-top:after,
+.hex-bottom:after {
+  content: "";
+  position: absolute;
+  width: 80.0000px;
+  height: 46.188021535170066px;
+  -webkit-transform:  rotate(45deg) scaleY(1.7321) translateY(-23.0940px);
+  -ms-transform:      rotate(45deg) scaleY(1.7321) translateY(-23.0940px);
+  transform:          rotate(45deg) scaleY(1.7321) translateY(-23.0940px);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  background: inherit;
+}
+
+.hex-top {
+  top: -28.2843px;
+}
+
+.hex-top:after {
+  background-position: center top;
+}
+
+.hex-bottom {
+  bottom: -28.2843px;
+}
+
+.hex-bottom:after {
+  background-position: center bottom;
+}
+
+.hexagon:after {
+  content: "";
+  position: absolute;
+  top: 0.0000px;
+  left: 0;
+  width: 80.0000px;
+  height: 46.1880px;
+  z-index: 2;
+  background: inherit;
+}
+
+.hex-text-left {
+  padding-left: 100px;
+}
+
+.hex-text-left .hex-name {
+  font-size: 18px;
+}
+
+.hex-text-left .hex-role {
+  width: 240px;
+}
