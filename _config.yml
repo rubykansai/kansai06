@@ -3,10 +3,10 @@ markdown: kramdown
 kramdown:
   input: GFM
 pygments: true
-baseurl: '/kansai06'
+baseurl: "/kansai06"
 encoding: UTF-8
 exclude:
 - README.md
-name: 関西Ruby会議06
+name: "関西Ruby会議06"
 copyright: 2015, Ruby関西
 theme: cyborg
