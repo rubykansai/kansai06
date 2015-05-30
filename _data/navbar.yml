@@ -1,6 +1,8 @@
 ---
 - label: Blog
   path: "/blog"
+- label: Sponsor
+  path: "/sponsor"
 - label: Team
   path: "/team"
 - label: Changelog
