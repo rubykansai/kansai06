@@ -4,7 +4,7 @@
 
 #theme {
   text-align: center;
-  color: #eebb44;
+  color: #eecc55;
   font-size: 80px;
 }
 
@@ -22,7 +22,7 @@
 
 /* Bootswatch */
 .text-warning, .text-warning:hover {
-  color: #eebb44;
+  color: #eecc55;
 }
 
 .panel {
@@ -114,7 +114,25 @@
 }
 
 /* Sponsor */
+.sponsor-logo {
+  display: table;
+}
+
+.sponsor-link {
+  display: table-cell;
+  height: 120px;
+  vertical-align: middle;
+  text-align: center;
+  background-color: #ffffff
+}
+
+.sponsor-img {
+  width: 220px;
+  margin: 0 auto;
+}
 
 .sponsor-name {
-
+  font-size: 18px;
+  padding-top: 4px;
+  padding-bottom: 4px;
 }
