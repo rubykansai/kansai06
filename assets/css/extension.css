@@ -127,7 +127,9 @@
 }
 
 .sponsor-img {
-  width: 220px;
+  width: 240px;
+  padding-left: 16px;
+  padding-right: 16px;
   margin: 0 auto;
 }
 
