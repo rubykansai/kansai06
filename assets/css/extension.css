@@ -101,16 +101,26 @@
 }
 
 .hex-text-left {
-  padding-left: 100px;
+  padding-top: 15px;
 }
 
-.hex-text-left .hex-name {
+.hex-name {
   font-size: 18px;
+  font-weight: bold;
+  width: 300px;
 }
 
-.hex-text-left .hex-role {
-  width: 240px;
+.hex-role {
+  width: 300px;
   font-size: 15px;
+}
+
+.hex-github {
+  font-size: 32px;
+}
+
+.hex-twitter {
+  font-size: 32px;
 }
 
 /* Sponsor */

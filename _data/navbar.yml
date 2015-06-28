@@ -1,9 +1,11 @@
 ---
-- label: Blog
-  path: "/blog"
+- label: Speakers
+  path: "/speakers"
 - label: Sponsor
   path: "/sponsor"
 - label: Team
   path: "/team"
+- label: Blog
+  path: "/blog"
 - label: Changelog
   path: "/changelog"
