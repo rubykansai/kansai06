@@ -117,10 +117,12 @@
 
 .hex-github {
   font-size: 32px;
+  padding-left: 4px;
 }
 
 .hex-twitter {
   font-size: 32px;
+  padding-left: 2px;
 }
 
 /* Sponsor */
