@@ -1,8 +1,8 @@
 ---
 - label: Speakers
   path: "/speakers"
-- label: Sponsor
-  path: "/sponsor"
+- label: Sponsors
+  path: "/sponsors"
 - label: Team
   path: "/team"
 - label: Blog
