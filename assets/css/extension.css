@@ -150,3 +150,29 @@
   padding-top: 4px;
   padding-bottom: 4px;
 }
+
+/* Group */
+.group-logo {
+  display: table;
+}
+
+.group-link {
+  display: table-cell;
+  height: 100px;
+  vertical-align: middle;
+  text-align: center;
+  background-color: #151515
+}
+
+.group-img {
+  width: 140px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin: 0 auto;
+}
+
+.group-name {
+  font-size: 18px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
