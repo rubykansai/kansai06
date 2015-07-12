@@ -131,3 +131,5 @@ title:  Report
 ![P1030889]({{ site.baseurl }}/assets/img/report/P1030889.JPG)
 ![P1030891]({{ site.baseurl }}/assets/img/report/P1030891.JPG)
 ![P1030892]({{ site.baseurl }}/assets/img/report/P1030892.JPG)
+
+![novelty]({{ site.baseurl }}/assets/img/report/novelty.jpg)
