@@ -5,6 +5,9 @@ title:  Report
 
 ### 関西Ruby会議06
 
+
+
+
 ----
 
 #### はじめに
@@ -49,6 +52,7 @@ title:  Report
 ![P1030387]({{ site.baseurl }}/assets/img/report/P1030387.JPG)
 ![P1030466]({{ site.baseurl }}/assets/img/report/P1030466.JPG)
 ![P1030476]({{ site.baseurl }}/assets/img/report/P1030476.JPG)
+![P1030582]({{ site.baseurl }}/assets/img/report/P1030582.JPG)
 
 #### スポンサーLT
 
@@ -65,7 +69,7 @@ title:  Report
 ![P1030570]({{ site.baseurl }}/assets/img/report/P1030570.JPG)
 ![P1030568]({{ site.baseurl }}/assets/img/report/P1030568.JPG)
 ![P1030571]({{ site.baseurl }}/assets/img/report/P1030571.JPG)
-
+![P1030633]({{ site.baseurl }}/assets/img/report/P1030633.JPG)
 
 #### Railsガイドを支える技術  @yasulab  講演
 
@@ -131,5 +135,4 @@ title:  Report
 ![P1030889]({{ site.baseurl }}/assets/img/report/P1030889.JPG)
 ![P1030891]({{ site.baseurl }}/assets/img/report/P1030891.JPG)
 ![P1030892]({{ site.baseurl }}/assets/img/report/P1030892.JPG)
-
 ![novelty]({{ site.baseurl }}/assets/img/report/novelty.jpg)
