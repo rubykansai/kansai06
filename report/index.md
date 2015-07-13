@@ -3,18 +3,17 @@ layout: default
 title:  Report
 ---
 
-### 関西Ruby会議06
-
-
-
+## 関西Ruby会議06
 
 ----
 
-#### はじめに
+### はじめに
 
 2015年7月11日 に開催された 関西Ruby会議06 の当日の様子をレポートしたものです。
 
-#### 開催概要
+![P1030151]({{ site.baseurl }}/assets/img/report/P1030151.JPG)
+
+### 開催概要
 
 * 開催日
     * 2015年7月11日 (土)
@@ -33,17 +32,24 @@ title:  Report
 * まとめ
     * [スライドまとめ](http://matome.naver.jp/odai/2143661425669201301)
 
-#### 受付
+### オープニング
+
+参加者が230名も登録されていましたが、手慣れたメンバーと当日スタッフの連携でスムーズに受付ができました。
+会場は大通りから少し中に入った所なので、当日スタッフが道案内をしてくれたのもよかったです。
 
 ![P1030040]({{ site.baseurl }}/assets/img/report/P1030040.JPG)
+
+スタッフは朝の8時30分には集合をしていましたが、参会者も9時頃には集まり始めていました。
+Doorkeeperで募集をしていたので、みなさんアプリでチェックインを準備して頂いて並んでおります。
+
 ![P1030080]({{ site.baseurl }}/assets/img/report/P1030080.JPG)
 
-#### オープニング
+基調講演、講演、LTを含めると発表者は17名でした。その司会を務めた３名です。
+マイクランーナーも傾斜のある階段を俊敏は駆け回っていました。
 
 ![P1030145]({{ site.baseurl }}/assets/img/report/P1030145.JPG)
-![P1030151]({{ site.baseurl }}/assets/img/report/P1030151.JPG)
 
-#### Rubyにみるプログラミングスタイルの進化 まつもと ゆきひろ 基調講演
+### Rubyにみるプログラミングスタイルの進化 まつもと ゆきひろ 基調講演
 
 ![P1030204]({{ site.baseurl }}/assets/img/report/P1030204.JPG)
 ![P1030275]({{ site.baseurl }}/assets/img/report/P1030275.JPG)
@@ -54,7 +60,7 @@ title:  Report
 ![P1030476]({{ site.baseurl }}/assets/img/report/P1030476.JPG)
 ![P1030582]({{ site.baseurl }}/assets/img/report/P1030582.JPG)
 
-#### スポンサーLT
+### スポンサーLT
 
 * アジャイルウェアのRedmine事業
 * Rubyビジネス推進協議会の活動について
@@ -64,44 +70,44 @@ title:  Report
 
 ![P1030512]({{ site.baseurl }}/assets/img/report/P1030512.JPG)
 
-#### 集合写真
+### 集合写真
 
 ![P1030570]({{ site.baseurl }}/assets/img/report/P1030570.JPG)
 ![P1030568]({{ site.baseurl }}/assets/img/report/P1030568.JPG)
 ![P1030571]({{ site.baseurl }}/assets/img/report/P1030571.JPG)
 ![P1030633]({{ site.baseurl }}/assets/img/report/P1030633.JPG)
 
-#### Railsガイドを支える技術  @yasulab  講演
+### Railsガイドを支える技術  @yasulab  講演
 
 ![P1030526]({{ site.baseurl }}/assets/img/report/P1030526.JPG)
 ![P1030540]({{ site.baseurl }}/assets/img/report/P1030540.JPG)
 
-#### 200万 Webサイトを支える ロリポップ！と mruby @harasou5 講演
+### 200万 Webサイトを支える ロリポップ！と mruby @harasou5 講演
 
 ![P1030563]({{ site.baseurl }}/assets/img/report/P1030563.JPG)
 ![P1030564]({{ site.baseurl }}/assets/img/report/P1030564.JPG)
 
-#### スモウルビー1.0：小学３年生から始めるRubyプログラミング @takaokouji 講演
+### スモウルビー1.0：小学３年生から始めるRubyプログラミング @takaokouji 講演
 
 ![P1030579]({{ site.baseurl }}/assets/img/report/P1030579.JPG)
 ![P1030575]({{ site.baseurl }}/assets/img/report/P1030575.JPG)
 
-#### RSpec、Minitest、使うならどっち？ 伊藤 淳一 講演
+### RSpec、Minitest、使うならどっち？ 伊藤 淳一 講演
 
 ![P1030588]({{ site.baseurl }}/assets/img/report/P1030588.JPG)
 ![P1030593]({{ site.baseurl }}/assets/img/report/P1030593.JPG)
 
-#### Railsパフォーマンス基本のキ  @joker1007  講演
+### Railsパフォーマンス基本のキ  @joker1007  講演
 
 ![P1030615]({{ site.baseurl }}/assets/img/report/P1030615.JPG)
 ![P1030610]({{ site.baseurl }}/assets/img/report/P1030610.JPG)
 
-#### API server/client development using JSON Schema @izumin5210 講演
+### API server/client development using JSON Schema @izumin5210 講演
 
 ![P1030617]({{ site.baseurl }}/assets/img/report/P1030617.JPG)
 ![P1030620]({{ site.baseurl }}/assets/img/report/P1030620.JPG)
 
-#### LT大会
+### LT大会
 
 ![P1030645]({{ site.baseurl }}/assets/img/report/P1030645.JPG)
 ![P1030663]({{ site.baseurl }}/assets/img/report/P1030663.JPG)
@@ -115,7 +121,7 @@ title:  Report
 * インフラの人がChefやServerspec(ほか)がRubyだったおかげですこしプログラムをするようになった  @sawanoboly LT
 * ActiveAdmin Better Practices（仮） @ShinsukeKuroki LT
 
-#### キーワードパラメータを支える技術  笹田 耕一 基調講演
+### キーワードパラメータを支える技術  笹田 耕一 基調講演
 
 ![P1030760]({{ site.baseurl }}/assets/img/report/P1030760.JPG)
 ![P1030789]({{ site.baseurl }}/assets/img/report/P1030789.JPG)
@@ -126,9 +132,9 @@ title:  Report
 ![P1030839]({{ site.baseurl }}/assets/img/report/P1030839.JPG)
 ![P1030847]({{ site.baseurl }}/assets/img/report/P1030847.JPG)
 
-#### クロージング
+### クロージング
 
-#### アフターパーティー
+### アフターパーティー
 
 ![P1030886]({{ site.baseurl }}/assets/img/report/P1030886.JPG)
 ![P1030888]({{ site.baseurl }}/assets/img/report/P1030888.JPG)
