@@ -39,7 +39,7 @@ title:  Report
 
 ![P1030040]({{ site.baseurl }}/assets/img/report/P1030040.JPG)
 
-スタッフは朝の8時30分には集合をしていましたが、参会者も9時頃には集まり始めていました。
+スタッフは朝の8時30分には集合をしていましたが、参加者も9時頃には集まり始めていました。
 Doorkeeperで募集をしていたので、みなさん「アプリでチェックイン」の準備して並んでいます。
 
 ![P1030080]({{ site.baseurl }}/assets/img/report/P1030080.JPG)
@@ -182,7 +182,7 @@ QiitaでRubyの部、Railsの部、RSpecの部で全て1位のストックを獲
 講演: @izumin5210 さん
 
 「Kobe.rb と Asakusa.rb から来ました。」とこれが一番言いたかったようです。
-JSON Schema は YAML で記述できます。（JSON は **{}** と **""** の入力で shift キーが死ぬんじゃう！）
+JSON Schema は YAML で記述できます。（JSON は **{}** と **""** の入力で shift キーが死ぬんじゃないか！？）
 
 ![P1030617]({{ site.baseurl }}/assets/img/report/P1030617.JPG)
 
