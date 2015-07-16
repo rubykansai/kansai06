@@ -153,7 +153,13 @@ Railsガイドを継続的に更新していく技術をデモンストレーシ
 
 講演: 伊藤 淳一 さん
 
+QiitaでRubyの部、Railsの部、RSpecの部で全て1位のストックを獲得されています。
+**xUnit形式 vs Spec形式** や **RSpec vs Minitest** をとても丁寧に解説されていました。
+
 ![P1030588]({{ site.baseurl }}/assets/img/report/P1030588.JPG)
+
+**伊藤 淳一 さん**は主観的に選ぶなら **RSpec** だそうです。
+「**Minitest** はDIYer気質が強い方に好まれます。」（仮説）
 
 ![P1030593]({{ site.baseurl }}/assets/img/report/P1030593.JPG)
 
@@ -161,7 +167,13 @@ Railsガイドを継続的に更新していく技術をデモンストレーシ
 
 講演: @joker1007 さん
 
+社内のQiitaでは圧倒的な1位でストックを獲得されています。
+パフォーマンスが悪くなる要因を例を見ながらの解説でした。（特に **serialize** は気を付けて使うべし！）
+
 ![P1030615]({{ site.baseurl }}/assets/img/report/P1030615.JPG)
+
+検知と計測のためのツールの紹介で Activerecord::Cause は **@joker1007 さん** が作ったそうです。
+「最も大事なことは、壊れた窓を放置しない」は身に突き刺さりました。
 
 ![P1030610]({{ site.baseurl }}/assets/img/report/P1030610.JPG)
 
@@ -169,7 +181,13 @@ Railsガイドを継続的に更新していく技術をデモンストレーシ
 
 講演: @izumin5210 さん
 
+「Kobe.rb と Asakusa.rb から来ました。」とこれが一番言いたかったようです。
+JSON Schema は YAML で記述できます。（JSON は **{}** と **""** の入力で shift キーが死ぬんじゃう！）
+
 ![P1030617]({{ site.baseurl }}/assets/img/report/P1030617.JPG)
+
+「テスト支援ツールとしての **JSON Schema** がイケてる使い方です。」
+**SOAP** おじさんからの **まさかり** がくるそうですが、きちんと議論をしたいそうです。
 
 ![P1030620]({{ site.baseurl }}/assets/img/report/P1030620.JPG)
 
@@ -252,7 +270,7 @@ LT: @ShinsukeKuroki さん
 
 ### るびま 担当
 
-レポート: ogom さん
-写真提供: rito さん
+レポート: 尾篭 盛 (ogom)
+写真提供: 田又 利土 (rito)
 
 ![P1030582]({{ site.baseurl }}/assets/img/report/P1030582.JPG)
